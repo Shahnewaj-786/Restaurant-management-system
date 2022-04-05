@@ -1,0 +1,40 @@
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\bin\Debug\FoodCourt.exe.config
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\bin\Debug\FoodCourt.exe
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\bin\Debug\FoodCourt.pdb
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.csprojAssemblyReference.cache
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.Form1.resources
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.Properties.Resources.resources
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.csproj.GenerateResource.cache
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.csproj.CoreCompileInputs.cache
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.exe
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.pdb
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.AdminReg.resources
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.ManagerReg.resources
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.LoginPage.resources
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.AdminPortal.resources
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.RestaurantManagement.resources
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.ManagersList.resources
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.ManagerPortal.resources
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.FoodManagement.resources
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.Order.resources
+H:\C# Practice\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.PendingOrder.resources
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\bin\Debug\FoodCourt.exe.config
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\bin\Debug\FoodCourt.exe
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\bin\Debug\FoodCourt.pdb
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.csprojAssemblyReference.cache
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.AdminPortal.resources
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.AdminReg.resources
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.ManagerPortal.resources
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.ManagersList.resources
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.Form1.resources
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.LoginPage.resources
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.ManagerReg.resources
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.FoodManagement.resources
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.Order.resources
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.PendingOrder.resources
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.Properties.Resources.resources
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.RestaurantManagement.resources
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.csproj.GenerateResource.cache
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.csproj.CoreCompileInputs.cache
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.exe
+C:\Users\MH Ullash\Desktop\c# project\Simple Food Court\FoodCourt\FoodCourt\obj\Debug\FoodCourt.pdb
